@@ -1,2 +1,2 @@
 # home-work
-or ma homework of c++
+my homework of c++
