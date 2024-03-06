@@ -1,5 +1,5 @@
-# home-work
-my homework of c++
+# home work
+
 ## дз №1 за 14.02
  https://github.com/idflool/home-work/blob/main/start.cpp
 ## дз №2 за 19.02
